@@ -111,7 +111,7 @@ library-management-system/
 Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/sai-supraja48/library-managemnet-system-project.git
 ```
 
 Move into the project folder
@@ -302,7 +302,7 @@ All APIs were tested using Postman.
 
 **GitHub Repository**
 
-Add your GitHub repository link here.
+https://github.com/sai-supraja48/library-managemnet-system-project.git
 
 **Live API**
 
